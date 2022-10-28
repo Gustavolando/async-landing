@@ -10,6 +10,6 @@ This is the the project of the [this course](https://platzi.com/cursos/asincroni
 
 I hope you like it and [watch it](https://gustavolando.github.io/async-landing/)!
 
-![How to make CSS Zig-Zag Border.png](https://gustavolando.github.io/async-landing/Gustavos%20Youtube%20channel%20videos.png)
+![How to make CSS Zig-Zag Border.png](https://github.com/Gustavolando/async-landing/blob/master/Gustavos%20Youtube%20channel%20videos.png?raw=true)
 
 Here is the animation demo link:  https://gustavolando.github.io/async-landing/
